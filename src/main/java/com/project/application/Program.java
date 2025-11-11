@@ -8,7 +8,7 @@ public class Program {
 
         Department department = new Department();
         department.setId(123456);
-        department.setName("Central de Pesquisa");
+        department.setName("Books");
 
         System.out.println("Esse é o id: " + department.getId() + " e esse é o nome do department: " + department.getName());
     }
